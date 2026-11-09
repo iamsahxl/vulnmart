@@ -56,4 +56,4 @@ All vulnerabilities are individually configurable through the admin settings pan
 
 This application is intentionally vulnerable. Never deploy on a public network.
 
-A self-contained lab for practicing and teaching web application penetration testing. Developed by TechSky - Security Research Team.
+A self-contained lab for practicing and teaching web application penetration testing. Security Research Team.
